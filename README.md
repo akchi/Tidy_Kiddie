@@ -1,6 +1,13 @@
 ## Tidy Kiddie
 
-A web application designed to assist the parent/teachers of young children to understand the preventive measures of the prominent infections.
+Tidy Kiddie is a project that addresses an authentic and relevant social issue : **Prevention of infections in a work place.**
+
+An educational website designed to assist the parent/teachers of young children to understand the preventive measures of prominent infections in regional Victoria:
+- Barown Sowth West
+- Gippsland
+- Grampians
+- Hume
+- Loddon Mallee
 
 This project includes 3 main functions:
 <ol>
@@ -9,7 +16,7 @@ This project includes 3 main functions:
   <li>Protect: A list of vaccines the child must have recieved prior to the given age group.</li>
 </ol>
 
-Although, this repository contains the code related to <b>learn</b> and <b>protect</b> alone.
+As I was involved in the development of the *Learn* and *Protect* functionas, this repository contains the code related to theses parts only.
 
 
   
